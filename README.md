@@ -83,4 +83,3 @@ Receive alerts for:
 - **State Management:** Riverpod  
 
 
->>>>>>> b56b59100f500d39c8cb10ea6e7c3d2b5bc4b4e8
